@@ -1,4 +1,4 @@
-# Throwing-Fire
+# Main Information
 Main master branch for all of throwing fire's work.
 
 Make pull requests for any changes that you deem as necessary.
