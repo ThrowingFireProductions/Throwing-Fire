@@ -1,0 +1,14 @@
+body {
+ background-color: rgb(200,200,200);
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;    
+}
+
+.MainText {
+    font-size: 100px;
+    color: white;
+    margin: 0px;
+}
